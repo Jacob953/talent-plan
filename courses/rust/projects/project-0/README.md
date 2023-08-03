@@ -1,8 +1,8 @@
 Three projects metioned in [prerequisites][pre]
 
-- subpro-1: [programming a guessing game]
-- subpro-2: [building a command-line program]
-- subpro-3: [building a multithreaded web server]
+- subproj-1: [programming a guessing game]
+- subproj-2: [building a command-line program]
+- subproj-3: [building a multithreaded web server]
 
 [pre]: ../../README.md#prerequisites
 [programming a guessing game]: https://doc.rust-lang.org/stable/book/ch02-00-guessing-game-tutorial.html
